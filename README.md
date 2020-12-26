@@ -5,5 +5,6 @@
 
 2- Can be used to Estimat the risk and returns associated with equity assets on a daily, weekly and monthly frequency
 
-![alt text](http://url/to/chart.png)
+![alt text](https://github.com/ronak-ag19/Equity-Research/blob/main/chart.jpg?raw=true)
+
 3- Used Plotly Library to plot Candle stick charts.
