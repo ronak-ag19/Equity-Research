@@ -5,7 +5,7 @@
 
 2- Can be used to Estimat the risk and returns associated with equity assets on a daily, weekly and monthly frequency
 
-![Candlestick Chart](https://github.com/ronak-ag19/Equity-Research/blob/main/Risk_Returns.png?raw=true)
+![Risk _Returns](https://user-images.githubusercontent.com/66140194/103155861-541b3580-47c9-11eb-9655-3e055cd68b53.png)
 
 3- Used Plotly Library to plot Candle stick charts.
 ![Candlestick Chart](https://github.com/ronak-ag19/Equity-Research/blob/main/chart.png?raw=true)
